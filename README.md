@@ -3,26 +3,6 @@
 - 🔭 I’m currently working on myself. 
 - 🌱 I’m currently learning on hexlet! Studying frontend developer.
 
-**Education:**
-
-* 2013-2017 applied Informatics (bachelor)
-* 2017-2019 mathematics (magistracy)
-
-**Additional education:**
-
-- Courses from hexlet
-- 'Грокаем алгоритмы' (Адитья Бхаргава)
-
-**Experience:**
-
-✨ 2017-2019 Project manager. Building the work of the team, planning sprints, finalizing the technical specifications and manual testing together with the customer.
-
-✨ 2019-2022 System administrator.Administration, work with specific software and hardware, PC assembly and repair, software installation.
-
-**About Me:**
-
-In addition to learning something new, like to analyze and correct previous work.
-
 **Skills:**
 
 🚀Used languages during training: C++, Java.
