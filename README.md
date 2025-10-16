@@ -23,9 +23,9 @@
 
 
 <p align="center">
-   <a href="https://t.me/aleksandraman12" target="_blank" rel="noreferrer"><img src="assets/telegramm.png" width="85" height="85" style="margin-left: 20px" /></a>  
-   <a href="www.linkedin.com/in/александра-золотухина-a9241521a" target="_blank" rel="noreferrer"><img src="assets/linkedin.png" width="85" height="85" style="margin-left: 20px" /></a> 
-   <a href="mailto:aleksandra12mail@mail.ru" target="_blank" rel="noreferrer"><img src="assets/email.png" width="85" height="85" style="margin-left: 20px" /></a> 
+   <a href="https://t.me/aleksandraman12" target="_blank" rel="noreferrer"><img src="assets/telegramm.png" width="85" height="85" /></a>&nbsp;  
+   <a href="www.linkedin.com/in/александра-золотухина-a9241521a" target="_blank" rel="noreferrer"><img src="assets/linkedin.png" width="85" height="85" /></a>&nbsp; 
+   <a href="mailto:aleksandra12mail@mail.ru" target="_blank" rel="noreferrer"><img src="assets/email.png" width="85" height="85" /></a> 
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=0:793dc2,100:11c09d&section=footer&reversal=false&descAlignY=60)
