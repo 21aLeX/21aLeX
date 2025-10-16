@@ -24,7 +24,7 @@
 <br /><br />
 <p align="center">
    <a href="https://t.me/aleksandraman12" target="_blank" rel="noreferrer"><img src="assets/telegramm.png" width="85" height="85" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-   <a href="www.linkedin.com/in/александра-золотухина-a9241521a" target="_blank" rel="noreferrer"><img src="assets/linkedin.png" width="85" height="85" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/alex-zolotuhina/" target="_blank" rel="noreferrer"><img src="assets/linkedin.png" width="85" height="85" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="mailto:aleksandra12mail@mail.ru" target="_blank" rel="noreferrer"><img src="assets/email.png" width="85" height="85" /></a> 
 </p>
 
