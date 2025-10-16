@@ -1,4 +1,4 @@
-![header]([https://capsule-render.vercel.app/api?type=waving&height=300&color=0:11c09d,100:793dc2&text=👋%20Привет,%20я%20Александра-nl-Frontend%20Developer&reversal=false&section=header&descAlign=100&descAlignY=44&fontAlign=50&textBg=false&descSize=4&fontSize=35&fontAlignY=35](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:11c09d,100:793dc2&text=👋%20Привет,%20я%20Александра-nl-Frontend%20Developer&reversal=false&section=header&descAlign=100&descAlignY=44&fontAlign=50&textBg=false&descSize=4&fontSize=35&fontAlignY=35&fontColor=ffffff))
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:11c09d,100:793dc2&text=👋%20Привет,%20я%20Александра-nl-Frontend%20Developer&reversal=false&section=header&descAlign=100&descAlignY=44&fontAlign=50&textBg=false&descSize=4&fontSize=35&fontAlignY=35&fontColor=ffffff)
 #### Мои навыки: 
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=11c09d)
 ![](https://img.shields.io/badge/Redux-informational?style=flat&logo=redux&logoColor=white&color=11c09d)
@@ -21,10 +21,11 @@
 ![](https://img.shields.io/badge/Vercel-informational?style=flat&logo=vercel&logoColor=white&color=793dc2)
 ![](https://img.shields.io/badge/Railway-informational?style=flat&logo=railway&logoColor=white&color=793dc2)
 
+
 <p align="center">
-   <a href="https://t.me/aleksandraman12" target="_blank" rel="noreferrer"><img src="assets/telegramm.png" width="85" height="85" /></a>  
-   <a href="www.linkedin.com/in/александра-золотухина-a9241521a" target="_blank" rel="noreferrer"><img src="assets/linkedin.png" width="85" height="85" /></a> 
-   <a href="mailto:aleksandra12mail@mail.ru" target="_blank" rel="noreferrer"><img src="assets/email.png" width="85" height="85" /></a> 
+   <a href="https://t.me/aleksandraman12" target="_blank" rel="noreferrer"><img src="assets/telegramm.png" width="85" height="85" style="margin: 10px;" /></a>  
+   <a href="www.linkedin.com/in/александра-золотухина-a9241521a" target="_blank" rel="noreferrer"><img src="assets/linkedin.png" width="85" height="85" style="margin: 10px;" /></a> 
+   <a href="mailto:aleksandra12mail@mail.ru" target="_blank" rel="noreferrer"><img src="assets/email.png" width="85" height="85" style="margin: 10px;" /></a> 
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=0:793dc2,100:11c09d&section=footer&reversal=false&descAlignY=60)
